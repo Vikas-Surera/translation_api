@@ -116,8 +116,8 @@ Response
 
 ```
 {
-    "text": "भेजना चाहते हैं हिंदी में मैसेज लेकिन नहीं आती टाइपिंग AND 1",
-    "target": "Want to send messages in Hindi but do not come typing AND 1",
+    "text": "भेजना चाहते हैं हिंदी में मैसेज लेकिन नहीं आती टाइपिंग",
+    "target": "Want to send messages in Hindi but do not come typing",
     "fromLang": "hi",
     "toLang": "en"
 }
